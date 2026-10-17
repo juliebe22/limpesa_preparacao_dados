@@ -55,6 +55,3 @@ Aplicar técnicas de análise exploratória, limpeza e transformação de dados,
 
 ## Conclusão
 Os exercícios permitem praticar diferentes estratégias de preparação de dados, avaliar seus impactos e desenvolver habilidades fundamentais para projetos de Ciência de Dados.
-
-## Autoria
-Atividades acadêmicas desenvolvidas no curso de Engenharia de Software.
